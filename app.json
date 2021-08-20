@@ -1,6 +1,6 @@
 
 {
-  "name": "Marie_Chechi2.0",
+  "name": "Liya Mwol",
   "description": "Telegram's sassiest group manager. Modular Telegram group management bot!",
   "keywords": [
     "telegram",
@@ -9,7 +9,7 @@
     "manager",
     "3"
   ],
-  "repository": "hhttps://github.com/TGExplore/Marie_Chechi2.0",
+  "repository": "hhttps://github.com/SQADIRKVM/LiyaMwolbot/",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables",
